@@ -38,7 +38,7 @@ Welcome to my Portfolio Website! This is the hub where you can learn more about 
 
 🌐 Live Demo
 
-Get to know me and my work through the live demo -
+Get to know me and my work through the live demo - https://chula805.github.io/Portfolio-Website-10-10-23/
 
 📬 Feedback
 
